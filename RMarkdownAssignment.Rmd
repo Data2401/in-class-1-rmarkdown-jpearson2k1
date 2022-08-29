@@ -1,6 +1,6 @@
 ---
-  title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+title: 'RMarkdown:  In Class Assignment'
+author: "Jared Pearson"
 date: "Data 2401"
 output: html_document
 ---
@@ -32,3 +32,5 @@ Below the "Your work here" section header, do the following 3 things. To turn th
 
 Note that you can click "Knit" as you go along to see what the final results are going to look like. **Once you're done, commit the changes and push the repo back to your assignment on GitHub!**
  
+# Your Work Here
+
