@@ -34,3 +34,21 @@ Note that you can click "Knit" as you go along to see what the final results are
  
 # Your Work Here
 
+## "Wise words"
+
+>And be not conformed to this world: but be reformed in the newness of your mind, that you may prove what is the good and the acceptable and the perfect will of God Romans 12:2.<
+[linked phrase](https://dailyverse.knowing-jesus.com/romans-12-2)
+
+## "my semester" 
+
+|Title | number | prof|
+|----|----|----|
+|Data science|**2401**|*K Shoemaker*|
+|Computer Science|**1311**|*J Henderson*|
+|Math|**2412**|*E Tecarro*
+|Philosophy|**3311**|*J Jackson*|
+
+## "I recomend" 
+### "Brandon Sanderson"
+The way of kings, Words of Radience, Oathbringer
+
